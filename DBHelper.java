@@ -1,4 +1,4 @@
-package struts2;
+package struts2;TEST Branch B3;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
