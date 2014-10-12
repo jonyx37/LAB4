@@ -1,6 +1,6 @@
  <body>
   <Center>
-  <h1>欢迎进入图书主页</h1>
+  <h1>Welcome to XG Library!</h1>
   </Center>
-    <a href="bookAction_select">查看图书信息</a><br>
+    <a href="bookAction_select">Information of books</a><br>
   </body>
