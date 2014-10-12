@@ -1,0 +1,9 @@
+<struts>
+<constant name="struts.i18n.encoding" value="gb2312"></constant>
+<package name="default" extends="struts-default">
+<action name="bookAction_*" class="com.hsj.action.BookAction" method="{1}">
+		<result name="{1}">/{1}.jsp</result>
+</action>
+</package>
+</struts>    
+
